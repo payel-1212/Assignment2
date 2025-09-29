@@ -1,0 +1,43 @@
+header {
+    background-color: rgba(165, 42, 42, 0.582);
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    padding: 0%;
+}
+
+body {
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box {
+    width: 250px;
+    padding: 10px;
+    border: 5px solid black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.box img {
+    width: 100%;
+    height: auto;
+    display: block;
+    box-shadow: inset;
+    margin-bottom: 5px;
+}
+
+#img1 {
+    background-color: rgba(137, 43, 226, 0.534);
+
+}
+
+#img2 {
+    background-color: rgba(255, 255, 0, 0.541);
+    margin-left: 276px;
+}
+
+#img3 {
+    background-color: rgba(128, 128, 128, 0.527);
+}
